@@ -1,0 +1,7 @@
+# Professional requirements for DLinear multivariate time series
+numpy
+pandas
+torch
+scikit-learn
+matplotlib
+pytorch
